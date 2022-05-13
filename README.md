@@ -1,4 +1,6 @@
-# Sample code to be shared with Memora
+# Filter Generator
+
+Sample code to be shared with Memora
 
 # Description
 
